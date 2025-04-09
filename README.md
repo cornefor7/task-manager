@@ -20,5 +20,6 @@ Un mic proiect în linia de comandă pentru gestionarea sarcinilor, scris în Py
 
 Cerințe: Python 3
 Autor: C7AI
-    
+Colaboratori:
+Proiect realizat împreună cu ChatGPT (OpenAI).        
 ----------    
